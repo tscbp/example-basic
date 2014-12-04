@@ -2,4 +2,4 @@
 
 - Name: Mandy Blumreich
 - Hometown: Longmont, CO
-- Favorite Activity: Testing
+- Favorite Activity: Testing and Reading
