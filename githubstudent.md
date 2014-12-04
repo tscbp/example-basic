@@ -1,4 +1,6 @@
 # Hello From GitHub Student
 
-- Actually Brent Beer
-- Actually from: San Francisco
+- Name: GitHub Student
+- Hometown: San Francisco, CA
+- Favorite Activity: Flying with a Jetpack
+- Favorite Real Activity: Surfing
