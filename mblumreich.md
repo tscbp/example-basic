@@ -1,5 +1,6 @@
 # Hello From GitHub Student
 
 - Name: Mandy Blumreich
-- Hometown: Longmont, CO
+- Hometown: Longmont
+- State: CO
 - Favorite Activity: Testing and Reading
