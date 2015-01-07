@@ -19,3 +19,9 @@
  
 ## Watering Hole
  - Frank's Press Box
+ 
+## Pizza
+ - Old Chicago
+ 
+## Fancy
+ - Stillwater Grill
